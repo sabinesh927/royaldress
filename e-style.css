@@ -1,0 +1,60 @@
+.navbg{
+    background: linear-gradient(to right, rgb(235, 101, 218),hotpink,lightpink,pink);
+}
+.bgright{
+    background-image: url(./img/dressss.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:600px;
+    width: 100%;
+    
+   
+}
+.button{
+    height: 50px;
+    width: 150px;
+    margin-left: 44%;
+}
+.bottom{
+    margin-top: 250px;
+}
+.abouttopic{
+    text-align: center;
+    
+}
+.imghover:hover{
+    box-shadow: 5px 5px 10px 10px  gray;
+    padding-left: 50px;
+    border-radius: 20px;
+    padding-top: 20px;
+}
+.li-hv:hover{
+background-color: hotpink;
+padding-left: 30px;
+border-radius: 20px;
+
+}
+
+.newproduct{
+    border: 5px solid pink;
+    border-radius: 0 20px 0 20px   ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.imgrotate:hover {
+   
+   border-radius: 50%;
+}
+.A:hover{
+    border: 2px solid gray;
+    border-radius: 20px;
+}
+.logo{
+    height: 60px;
+    border-radius: 50%;
+
+}
+
+
+
